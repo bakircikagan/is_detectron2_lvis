@@ -1,0 +1,1 @@
+# is_detectron2_lvis
